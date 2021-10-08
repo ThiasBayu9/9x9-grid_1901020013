@@ -14,8 +14,12 @@
 
 ![goalstate1](s1.png)
 
+### Pada goal state 1 kita perlu merubah 36 squares or 4 sub-squares untuk mencapai goal state
+
 ## goal state 2
 
 ![goalstate2](s2.png)
 
-### Pada goal state 1 kita hanya perlu merubah 36 squares or 4 sub-squares untuk mencapai goal state, tetapi pada goal state 2 maka kita perlu merubah 45 squares or 5 sub-squares untuk mencapai goal state
+### pada goal state 2 maka kita perlu merubah 45 squares or 5 sub-squares untuk mencapai goal state
+
+### goal state 1 memerlukan jumlah states yang lebih sedikit jika dibandingkan dengan goal state 2.
