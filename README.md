@@ -1,5 +1,6 @@
 # 9x9-grid_1901020013
 ## START STATE
+![state1](g1.png)
 
 ### ukuran dari state space untuk semua kotak adalah **81!**
 
